@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arik Mozharovsky</h1>
 <h3 align="center">A passionate Developer looking for my next challenge</h3>
-<h5 align="center">I'm working on couple of projects at the moment that i upload soon.</h3>
 
 - 📫 How to reach me **arikmozh@gmail.com**
 
