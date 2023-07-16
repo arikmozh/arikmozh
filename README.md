@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm I'm Arik Mozharovsky</h1>
-<h3 align="center">Passionate and self-motivated full-stack developer with a strong work ethic and acommitment to delivering exceptional work. Embraces new ideas, seeks growthopportunities, and excels in problem-solving. Quick learner, reliable, and known forfostering teamwork. Seeking a junior position to contribute as a valuable team member.</h3>
-
-- 🌱 I’m currently learning **Remix**
+<h3 align="center">Passionate and self-motivated full-stack developer with a strong work ethic and a commitment to delivering exceptional work. Embraces new ideas, seeks growthopportunities, and excels in problem-solving. Quick learner, reliable, and known forfostering teamwork. Seeking a junior position to contribute as a valuable team member.</h3>
 
 - 📫 How to reach me **arikmozh@gmail.com**
+
+- 🌱 I’m currently learning **Remix**
 
 - 📄 Know about my experiences [test](test)
 
