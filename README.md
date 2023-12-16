@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **arikmozh@gmail.com**
 
-- 🌱 I’m currently learning **Remix**
+- 🌱 I’m currently learning **Next.js**
 
 - 📄 Know about my experiences [CV](https://file.io/Su7ZJphNUmoY)
 
