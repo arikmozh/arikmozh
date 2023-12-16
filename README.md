@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Next.js**
 
-- 📄 Know about my experiences [CV](https://file.io/Su7ZJphNUmoY)
+- 📄 Know about my experiences [CV](https://file.io/jlAN3M3wFwUg)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
